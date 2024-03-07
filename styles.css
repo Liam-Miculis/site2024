@@ -28,11 +28,9 @@ section {
   margin-bottom: 40px;
   }
 
-.tipos {
-  padding: 0;
-  align-items: center;
-  display: inline;
-  margin-right: 30px;
+#tipos {
+  display: flex;
 }
+
   
   
